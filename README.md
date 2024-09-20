@@ -1,4 +1,4 @@
-# XLStoAIKEN Converter
+# XLS to AIKEN Converter
 
 XLStoAIKEN Converter adalah proyek Python yang menyajikan alat untuk mengonversi data dari file Excel (XLSX) ke format AIKEN yang digunakan untuk membuat dan mengimpor kuis ke dalam berbagai platform Learning Management System (LMS).
 
