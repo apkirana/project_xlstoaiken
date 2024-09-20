@@ -107,7 +107,6 @@ Kontribusi sangat diterima! Jika Anda memiliki saran perbaikan atau menemukan bu
 Proyek ini berlisensi di bawah MIT License - lihat LICENSE file untuk detail.
 
 ## Contact
-- **Project Link**: [Air Quality Analysis on GitHub](https://github.com/apkirana/air-quality-analysis)
 - **LinkedIn:** [Annisa Puspa Kirana](https://id.linkedin.com/in/annisapuspakirana/en)
 - **Social Links:** [linktr.ee/puspakirana](http://linktr.ee/puspakirana)
 
